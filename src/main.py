@@ -1,6 +1,7 @@
 import argparse
 from cli.importer import import_samples
 
+
 def main():
     parser = argparse.ArgumentParser(description="🎧 SampleMind AI CLI")
     subparsers = parser.add_subparsers(dest="command", required=True)

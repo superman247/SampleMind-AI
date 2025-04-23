@@ -1,9 +1,10 @@
 {
-    // Add src to Python import paths
+
     "python.analysis.extraPaths": ["./src"],
 
-    // Set preferred Python interpreter (update path as needed)
-    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "python.defaultInterpreterPath": "venv/bin/python",
+
+    "editor.renderWhitespace": "none"
 
     // Enable linting and set linter
     "python.linting.enabled": true,
