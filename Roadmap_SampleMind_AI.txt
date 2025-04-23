@@ -1,0 +1,39 @@
+
+# SampleMind AI – Roadmap
+
+## 🎯 Overview
+SampleMind AI is a CLI-first smart assistant for music producers, designed to organize, analyze, and manage sample libraries using AI.
+
+---
+
+## 🚀 Features
+- AI Analysis
+- File Organizer
+- Sample Library Database
+- CLI Tools
+- Export/Import Tooling
+- Project Manager
+
+---
+
+## 🔁 Roadmap
+### Week 1–2: Planning & Setup
+- Select tech stack, repo setup, base file/folder structure.
+
+### Week 3–4: CLI & DB Engine
+- Build CLI to scan/import samples with metadata written to database.
+
+### Week 5–6: AI Integration
+- Add audio analysis (BPM, Key, Loudness, etc.).
+
+### Week 7–8: Tagging & Organization
+- AI-assisted tagging and folder generation.
+
+### Week 9–10: Export/Import Utilities
+- Batch export/import with metadata sync.
+
+### Week 11–12: Testing & Docs
+- Write docs, testing suite, visual guide.
+
+### Week 13+: Frontend + Marketplace (optional)
+- Build GUI with Electron/Tauri and marketplace tools.

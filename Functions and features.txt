@@ -1,0 +1,32 @@
+﻿
+1. AI-drevet BPM og Key Detection
+    • Beskrivelse: Når du laster opp eller importerer prøver (samples), bruker SampleMind AI et AI-basert verktøy som Librosa for å analysere og automatisk oppdage BPM, key og mood. Dette gjør at du kan finne samples som passer perfekt med prosjektet ditt uten å måtte gjøre det manuelt.
+    • Verdi: Spar tid, få nøyaktige resultater, og vær alltid i takt med ditt prosjekt.
+2. Automatisert Filorganisering og Kategorisering
+    • Beskrivelse: SampleMind AI organiserer prøver automatisk i mapper basert på type, genre, stemning, BPM, key, og mer. Dette gjør at du alltid finner det du leter etter uten å måtte rote gjennom massive samlinger.
+    • Verdi: Effektiv filhåndtering og raskere tilgang til dine beste prøver.
+3. Tagging med Maskinlæring
+    • Beskrivelse: Etter analysen kan SampleMind AI automatisk tagge prøver med forskjellige metadata som instrumenttype, dynamikk, størrelse, og kreativ stil. Dette kan være supernyttig for å organisere prøver etter spesifikke behov.
+    • Verdi: Kategoriser prøver og lager oversiktlige samlinger på et høyere nivå ved hjelp av AI.
+4. Kreativ Tempo Justering
+    • Beskrivelse: AI kan foreslå ideelle tempo-justeringer for en prøve basert på musikkprosjektet ditt. Det kan analysere hvordan prøven spiller sammen med eksisterende prosjekter og automatisk justere tempo uten å miste kvalitet.
+    • Verdi: Enkelt å justere tempo på prøver, og alle samples er alltid i synk med prosjektet ditt.
+5. AI-tilpassede Presets for Sound Design
+    • Beskrivelse: Bruk AI for å generere tilpassede presets som matcher prosjektet ditt. SampleMind AI kan analysere hvilken type lyd du jobber med, og deretter generere anbefalinger for EQ, kompressorinnstillinger, effekter osv.
+    • Verdi: Raskt tilgang til skreddersydde innstillinger for å forbedre lyden din.
+6. Avansert Metadata-søk og Filtrering
+    • Beskrivelse: Implementer et kraftig metadata-søk som lar deg filtrere og søke på alt fra lydbølger, key, BPM, stemning, til spesifikke instrumenter eller effekter.
+    • Verdi: Ekstremt raskt og presist søk for å finne akkurat den prøven du trenger.
+7. Sample Preview med AI-generert Waveform Analyse
+    • Beskrivelse: La SampleMind AI generere en interaktiv preview av prøven som viser et visuell representasjon av hvordan lydbølgene ser ut. Med det kan du raskt bestemme om prøven passer med ditt prosjekt.
+    • Verdi: En visuell fremstilling som hjelper deg å ta bedre valg.
+8. Intelligent Batch-eksport og Import
+    • Beskrivelse: Når du har organisert prøvene dine, kan SampleMind AI eksportere batcher av samples til forskjellige formater (WAV, MP3, AIFF, etc.) og med spesifikke metadata. AI kan til og med organisere og tilpasse eksportene for bestemte plattformer eller prosjekter.
+    • Verdi: Spar tid ved å kunne gjøre masseeksport med ett klikk og riktig format.
+9. Dynamisk Metadata-synkronisering mellom FL Studio og SampleMind
+    • Beskrivelse: Når du jobber med FL Studio, kan SampleMind AI synkronisere metadata i sanntid mellom FL Studio og SampleMind-databasen. Alle endringer du gjør i FL Studio (som å endre tempo, key eller stemning) blir oppdatert automatisk i din sample-database.
+    • Verdi: Enkel integrasjon mellom FL Studio og SampleMind.
+10. AI-drevet Utvalg av Samples for Et Kreativt Øyeblikk
+    • Beskrivelse: Basert på den kreative prosessen og hvilke prøver du tidligere har brukt i prosjektet ditt, kan SampleMind AI foreslå samples og loops som passer perfekt inn i ditt nåværende arbeid. Det vil bruke kunstig intelligens for å analysere din kreative stil og gi forslag som du sannsynligvis aldri hadde tenkt på.
+    • Verdi: Inspirasjon direkte fra AI, gir deg muligheten til å bryte gjennom kreative blokker.
+
