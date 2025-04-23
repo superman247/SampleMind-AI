@@ -1,13 +1,40 @@
 {
-  "editor.formatOnSave": true,
-  "editor.tabSize": 4,
-  "files.exclude": {
-    "**/__pycache__": true,
-    "**/*.pyc": true
+    // Add src to Python import paths
+    "python.analysis.extraPaths": ["./src"],
+
+    // Set preferred Python interpreter (update path as needed)
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+
+    // Enable linting and set linter
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+
+    // Format on save with black
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+
+    // Enable type checking
+    "python.analysis.typeCheckingMode": "basic",
+
+    // Show line numbers
+    "editor.lineNumbers": "on",
+
+    // Set tab size
+    "editor.tabSize": 4,
+    // Auto-complete and IntelliSense
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
   },
-  "terminal.integrated.defaultProfile.osx": "zsh",
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "editor.formatOnSave": true
-  }
+  "editor.suggestSelection": "first",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+  // Enable code folding
+  "editor.folding": true,
+
+  // Enable breadcrumbs for easy navigation
+  "breadcrumbs.enabled": true,
+
+
 }
